@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AndroidAssignmentWeel</string>
+    <string name="animate">Animate</string>
+    <string name="edit_progress">Edit Progress</string>
 </resources>
